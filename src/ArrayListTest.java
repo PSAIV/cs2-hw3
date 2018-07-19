@@ -1,3 +1,4 @@
+//Tests the functions included in the ArrayListUtils class
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -7,7 +8,6 @@ public class ArrayListTest {
 		
 		Scanner s = new Scanner(System.in);
 		
-		//11.11
 		System.out.print("Enter 5 numbers: ");
 		ArrayList<Integer> list1 = new ArrayList<Integer>();
 		
@@ -22,7 +22,6 @@ public class ArrayListTest {
 		}
 		System.out.println();
 		
-		//11.12
 		System.out.print("Enter 5 numbers: ");
 		ArrayList<Double> list2 = new ArrayList<Double>();
 		
@@ -32,7 +31,6 @@ public class ArrayListTest {
 		
 		System.out.println(ArrayListUtils.sum(list2));
 		
-		//11.13
 		ArrayList<Integer> list3 = new ArrayList<Integer>();
 		System.out.print("Enter ten integers: ");
 		
