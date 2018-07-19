@@ -1,6 +1,7 @@
+//Demonstrates inheritance properties within the various classes and subclasses included in this repo
 import java.util.Date;
 
-public class HW3_11_2 {
+public class InheritanceTest {
 	
 	public static void main(String args[]) {
 		
