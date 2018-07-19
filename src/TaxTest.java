@@ -1,5 +1,5 @@
-
-public class HW3_10_8 {
+//Uses the tax class to print a formated table of taxable income values for each filing status between $50K and $60K
+public class TaxTest {
 	
 	public static void main(String args[]){
 		
