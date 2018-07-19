@@ -1,5 +1,5 @@
-
-public class HW3_10_6 {
+//Generates a list of prime numbers, pushes them into a stack, then pops them off, printing them in reverse order.
+public class ReversePrimes {
 	
 	public static void main(String args[]) {
 		
