@@ -1,6 +1,7 @@
+//Utilizing the Account class, runs a simulated ATM perpetually.
 import java.util.Scanner;
 
-public class HW3_10_7 {
+public class MyATM {
 	
 	public static void main(String args[]) {
 		
