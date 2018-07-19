@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class HW3_11_13 {
+public class ArrayListTest {
 
 	public static void main(String args[]){
 		
